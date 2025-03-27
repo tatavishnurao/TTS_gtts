@@ -3,3 +3,4 @@ Add image-to-speech translation feature  Implement functionality to capture phot
 
 
 ### This is a simple deployment with gradio 
+I used jaavscript code to capture image
